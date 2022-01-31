@@ -1,0 +1,11 @@
+project
+.settings
+.classpath
+.editorconfig
+
+*target
+src/site/markdown/index.md.vm
+src/site/site.xml
+
+CHANGELOG.md
+README.md
